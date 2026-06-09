@@ -102,8 +102,8 @@ L’obiettivo della repository è raccogliere materiale utile per:
 
 ## 📊 Project Work
 
-Il project work consiste nell’analisi di un’impresa reale assegnata dal docente.
-
+Il project work consiste nell’analisi di un’impresa reale assegnata dal docente.<br>
+Il progetto è stato svolto in collaborazione con la collega [Sara Aliani](https://github.com/s-aliani).<br>
 Nel progetto vengono generalmente approfonditi:
 
 * presentazione dell’impresa;
